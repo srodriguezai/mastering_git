@@ -1,4 +1,4 @@
-## Heyoo everyone welcome to my Git!
+## Welcome to giy
 
-- Yo! Johnny here
+- This is coming to dev adrian
 - I'm adding this from 'feature-branch'
